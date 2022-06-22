@@ -1,0 +1,5 @@
+103021   ahm   ahm   012   Credit   11000
+103022   amr   amr@gmail.com   01233333   credit   10000
+22   khaled   khaled@gmail.com   01285204187   5000   11000
+1003   amr   amr@gmail.com   0128520   Credit   12500
+4444   ziad   ziad@gmail.com   01225547781   Credit   10000

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1631290015 source:e:\c++\codeblock project\final bank project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1631290015 source:e:\c++\codeblock project\bank system'\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
